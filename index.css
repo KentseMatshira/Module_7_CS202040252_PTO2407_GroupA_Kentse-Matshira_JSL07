@@ -114,4 +114,7 @@ button {
 button:hover {
   background-color: #5d5f5e;
 }
-
+img {
+  width: 300px;
+  height: 100px;
+}
